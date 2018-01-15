@@ -1,8 +1,8 @@
-package com.example.giangdam.stackoverflowpractice.adapter;
+package com.example.giangdam.stackoverflowpractice.model;
 
 /**
  * Created by cpu11326-local on 15/01/2018.
  */
 
-class Employee {
+public class Employee {
 }
